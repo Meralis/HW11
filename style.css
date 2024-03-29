@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+}
+
+.focusBox {
+  background-color: red;
+  width: 200px;
+  min-height: 20px;
+}
